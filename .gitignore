@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> libbsn/thesis
 # Prerequisites
 *.d
 
@@ -31,6 +34,7 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 
@@ -102,3 +106,9 @@ json
 venv
 TODO
 >>>>>>> bsn_ros/thesis
+=======
+
+# 
+build/
+.vscode
+>>>>>>> libbsn/thesis
