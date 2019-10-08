@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Mastar Thesis Evaluation Chapter Artifacts
-A repository containing the bsn code implemented upon the ROS middleware, its dependencies and the experimental data collected through the executions for the master thesis case study and evaluation chapter
-=======
-# arch
->>>>>>> arch/master
-=======
-# bsn_ros
 
-For CentralHub connection with Firebase DB, install Microsoft's Casablanca Rest SDK: https://github.com/Microsoft/cpprestsdk
->>>>>>> bsn_ros/thesis
-=======
+A repository containing the bsn code implemented upon the ROS middleware, its dependencies and the experimental data collected through the executions for the master thesis case study and evaluation chapter
+
 # BSN Library
 
 A body sensor network (BSN) library that enables the implementation of sensors, data fusers and emergency detection. Refer to https://arxiv.org/pdf/1804.00994.pdf and https://arxiv.org/pdf/1905.02228.pdf for more information. 
@@ -52,5 +42,4 @@ sudo make install
 * **Léo Moraes** - https://github.com/leooleo 
 * **Samuel Couto** - https://github.com/SCouto97 
 
-Adviser: **Dr. Genaína Nunes Rodrigues** - https://cic.unb.br/~genaina/
->>>>>>> libbsn/thesis
+Adviser: **Profa. Dra. Genaína Nunes Rodrigues** - https://cic.unb.br/~genaina/
