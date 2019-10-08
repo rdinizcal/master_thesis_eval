@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> libbsn/thesis
 # Prerequisites
@@ -112,3 +113,7 @@ TODO
 build/
 .vscode
 >>>>>>> libbsn/thesis
+=======
+.vscode/
+build/
+>>>>>>> lepton/master
